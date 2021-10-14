@@ -4,7 +4,7 @@
 
 ## I'm a web Designer and Developer!
 
-- 🌱 I’m currently learning JS
+- 🌱 I’m constantly learning JS
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
