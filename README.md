@@ -2,11 +2,11 @@
 
 <br />
 
-## I'm a web Designer and Developer!
+## I'm a Mobile and Web Engineer!
 
 - 🌱 I’m constantly learning JS
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to react native Open Source projects
 
 
 ### Connect with me:
