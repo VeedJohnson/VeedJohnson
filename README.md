@@ -6,7 +6,7 @@
 
 - 🌱 I’m constantly learning JS
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2024 Goals: Contribute more to react native Open Source projects
+
 
 
 ### Connect with me:
